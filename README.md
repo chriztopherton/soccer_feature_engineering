@@ -1,7 +1,7 @@
 # Soccer Feature Engineering Hackathon
 
 ## Goal
-Design and implement novel, interpretable soccer attributes (features) from play-by-play event data that describe team behavior, tactics, and performance beyond traditional box-score metrics. Think creatively and "outside the box"
+Design and implement novel, interpretable soccer attributes (features) from play-by-play event data that describe team behavior, tactics, and performance beyond traditional box-score metrics. Think creatively and "outside the box".
 
 ## Objective
 This is a creative feature engineering competition focused on soccer analytics. Rather than predicting outcomes, submissions are evaluated on:
