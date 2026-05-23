@@ -1,0 +1,15 @@
+pandas==2.2.2
+numpy
+matplotlib
+kloppy
+mplsoccer
+polars
+humanize
+duckdb==1.5.2
+streamlit
+motherduck  # Optional: only needed for MotherDuck cloud connections
+# SkillCorner Viz (optional depends on colab usage)
+
+# Documentation
+mkdocs-material>=9.5.0
+mkdocs-jupyter>=0.24.0
