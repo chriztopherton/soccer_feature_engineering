@@ -1,0 +1,16 @@
+# Secrets
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Data (large files)
+data/*.duckdb
+data/matches/
+
+# OS
+.DS_Store

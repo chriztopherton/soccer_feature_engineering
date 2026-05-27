@@ -8,6 +8,10 @@ humanize
 duckdb==1.5.2
 streamlit
 plotly
+anthropic>=0.50.0
+requests
+lxml
+html5lib
 motherduck  # Optional: only needed for MotherDuck cloud connections
 # SkillCorner Viz (optional depends on colab usage)
 
